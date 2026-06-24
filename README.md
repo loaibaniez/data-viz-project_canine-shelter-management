@@ -1,7 +1,7 @@
 # data-viz-project_canine-shelter-management
 The project that reminded me data visualization can have a mission.
 
-# 🐾 Reporte de Gestión Canina — Power BI Dashboard
+# 🐾 Canine Shelter Management — Power BI Dashboard
 
 A data visualization project built as part of a community challenge organized by **[Grow Up Data Analytics](https://www.growupdata.com)**, a Data Analytics education company from Costa Rica. Participants receive mentorship and a real-world brief — and contribute $10 directly to the shelter to fund food and care. Designed for **Territorio de Zaguates**, a real dog shelter located in Costa Rica — using fictional data to simulate their operational reporting needs. Built with a user-centered and mission-centered methodology: from audience definition and brand alignment, through Figma background design, to a fully published multi-tab Power BI dashboard.
 
